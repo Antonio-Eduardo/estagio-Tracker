@@ -50,4 +50,3 @@ Instruções de setup serão adicionadas conforme o projeto evoluir.
 
 Antonio Eduardo Moreira Oliveira
 Estudante de Ciência da Computação — Universidade Estácio de Sá
-[GitHub](https://github.com/Antonio-Eduardo) · eduardo.moreira.java@gmail.com
